@@ -36,13 +36,30 @@ I also focused on customizing the UI and keeping the code organized using the MV
 
 ---
 
-## Screenshots
+## Screenshots & Descriptions
 
-> *(To be added from screenshots folder in repo)*
+| Welcome Screen | Sign In Screen | Sign Up Screen | Chat Screen |
+|----------------|----------------|----------------|-------------|
+| ![Welcome](https://github.com/user-attachments/assets/685fab2b-780e-427b-885e-119335482d3b) | ![Sign In](https://github.com/user-attachments/assets/71d5d13b-ed14-4856-bff5-7faab792b22a) | ![Sign Up](https://github.com/user-attachments/assets/30ca1a49-a262-4ca3-b7b1-ae2a5cae34ca) | ![Chat](https://github.com/user-attachments/assets/29ec6899-52e3-48da-9033-c9434b9db821) |
 
-| Welcome | Sign In | Sign Up | Chat |
-|---------|---------|---------|------|
-| ![Welcome](screenshots/welcome.png) | ![SignIn](screenshots/signin.png) | ![SignUp](screenshots/signup.png) | ![Chat](screenshots/chat.png) |
+### **Screens Overview**
+
+#### **Welcome Screen**
+- App title with two primary buttons: "Login" and "Register"
+- Styled with gradient background and smooth layout
+
+#### **Sign In Screen**
+- Users can log in securely
+- Firebase authentication logic integrated
+
+#### **Sign Up Screen**
+- Allows users to register with email/password
+
+#### **Chat Screen**
+- Real-time messaging with Firestore
+- Messages styled based on sender
+- Bubbles auto-size to fit content
+- Avatar alignment: left for other users, right for me
 
 ---
 
@@ -59,8 +76,8 @@ I also focused on customizing the UI and keeping the code organized using the MV
 
 ## Project Structure
 
-- `WelcomeViewController.swift` – Animated title screen and navigation logic  
-- `RegisterViewController.swift` – Handles user registration and transition  
+- `IntroViewController.swift` – Title screen and navigation logic  
+- `SignUpViewController.swift` – Handles user registration and transition  
 - `LoginViewController.swift` – Handles user login and error handling  
 - `ChatViewController.swift` – Displays chat messages, sends/receives from Firestore  
 - `MessageCell.swift` – Custom chat cell with avatar and bubble styling  

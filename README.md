@@ -38,9 +38,19 @@ I also focused on customizing the UI and keeping the code organized using the MV
 
 ## Screenshots & Descriptions
 
-| Welcome Screen | Sign In Screen | Sign Up Screen | Chat Screen |
-|----------------|----------------|----------------|-------------|
-| ![Welcome](https://github.com/user-attachments/assets/685fab2b-780e-427b-885e-119335482d3b) | ![Sign In](https://github.com/user-attachments/assets/71d5d13b-ed14-4856-bff5-7faab792b22a) | ![Sign Up](https://github.com/user-attachments/assets/30ca1a49-a262-4ca3-b7b1-ae2a5cae34ca) | ![Chat](https://github.com/user-attachments/assets/29ec6899-52e3-48da-9033-c9434b9db821) |
+### Welcome & Sign In
+
+<img src="https://github.com/user-attachments/assets/685fab2b-780e-427b-885e-119335482d3b" width="45%" />
+<img src="https://github.com/user-attachments/assets/71d5d13b-ed14-4856-bff5-7faab792b22a" width="45%" />
+
+---
+
+### Sign Up & Chat
+
+<img src="https://github.com/user-attachments/assets/30ca1a49-a262-4ca3-b7b1-ae2a5cae34ca" width="45%" />
+<img src="https://github.com/user-attachments/assets/29ec6899-52e3-48da-9033-c9434b9db821" width="45%" />
+
+---
 
 ### **Screens Overview**
 

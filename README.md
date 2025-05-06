@@ -38,17 +38,17 @@ I also focused on customizing the UI and keeping the code organized using the MV
 
 ## Screenshots & Descriptions
 
-### Welcome & Sign In
+### Welcome & Sign Up
 
-<img src="https://github.com/user-attachments/assets/685fab2b-780e-427b-885e-119335482d3b" width="45%" />
-<img src="https://github.com/user-attachments/assets/71d5d13b-ed14-4856-bff5-7faab792b22a" width="45%" />
+<img src="https://github.com/user-attachments/assets/685fab2b-780e-427b-885e-119335482d3b" width="40%" />
+<img src="https://github.com/user-attachments/assets/30ca1a49-a262-4ca3-b7b1-ae2a5cae34ca" width="40%" />
 
 ---
 
-### Sign Up & Chat
+### Sign In & Chat
 
-<img src="https://github.com/user-attachments/assets/30ca1a49-a262-4ca3-b7b1-ae2a5cae34ca" width="45%" />
-<img src="https://github.com/user-attachments/assets/29ec6899-52e3-48da-9033-c9434b9db821" width="45%" />
+<img src="https://github.com/user-attachments/assets/71d5d13b-ed14-4856-bff5-7faab792b22a" width="40%" />
+<img src="https://github.com/user-attachments/assets/29ec6899-52e3-48da-9033-c9434b9db821" width="40%" />
 
 ---
 
@@ -58,19 +58,19 @@ I also focused on customizing the UI and keeping the code organized using the MV
 - App title with two primary buttons: "Login" and "Register"
 - Styled with gradient background and smooth layout
 
+#### **Sign Up Screen**
+- Allows users to register with email/password
+
 #### **Sign In Screen**
 - Users can log in securely
 - Firebase authentication logic integrated
-
-#### **Sign Up Screen**
-- Allows users to register with email/password
 
 #### **Chat Screen**
 - Real-time messaging with Firestore
 - Messages styled based on sender
 - Bubbles auto-size to fit content
 - Avatar alignment: left for other users, right for me
-
+  
 ---
 
 ## Tech Stack
